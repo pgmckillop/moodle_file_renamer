@@ -1,0 +1,15 @@
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\bin\Debug\RenamerWPF.exe.config
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\bin\Debug\RenamerWPF.exe
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\bin\Debug\RenamerWPF.pdb
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\MainWindow.g.cs
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\App.g.cs
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF_MarkupCompile.cache
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF_MarkupCompile.lref
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\MainWindow.baml
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF.g.resources
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF.Properties.Resources.resources
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF.csproj.GenerateResource.cache
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF.csproj.CoreCompileInputs.cache
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF.exe
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF.pdb
+D:\College 2017-18\95 Projects\91 Renamer WPF\01 Prototype\RenamerWPF\RenamerWPF\obj\Debug\RenamerWPF.csprojAssemblyReference.cache
